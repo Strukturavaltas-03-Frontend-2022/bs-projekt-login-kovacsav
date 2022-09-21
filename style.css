@@ -1,0 +1,11 @@
+.icon {
+  width: 50px;
+  height: 50px;
+  background-color: rgb(88, 58, 118);
+  border-radius: 20%;
+  color: white;
+  font-size: 2rem;
+  text-align: center;
+  font-weight: bold;
+  padding: 5px 0;
+}
